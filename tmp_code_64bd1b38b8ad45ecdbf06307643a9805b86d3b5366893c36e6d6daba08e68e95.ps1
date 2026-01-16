@@ -1,0 +1,1 @@
+winget install MongoDB.Server --accept-package-agreements --accept-source-agreements
